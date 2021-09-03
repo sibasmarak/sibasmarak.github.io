@@ -10,7 +10,7 @@ a:hover {
 }
 
 .customfsize {
-  font-size: 18px;
+  font-size: 15px;
 }
 
 body,
@@ -20,28 +20,28 @@ tr,
 p,
 a {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 18px
+  font-size: 15px
 }
 
 strong {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 18px;
+  font-size: 15px;
 }
 
 heading {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 26px;
+  font-size: 25px;
 }
 
 papertitle {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 22px;
+  font-size: 15px;
   font-weight: 700
 }
 
 name {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 36px;
+  font-size: 30px;
 }
 
 .one {

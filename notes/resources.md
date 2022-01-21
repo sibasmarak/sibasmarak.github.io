@@ -1,6 +1,7 @@
 ---
-title: some title
-name: some name
+title: Research Papers
+description: List of research papers read.
+
 ---
 
 # A Framework for analyzing FB posts during Elections

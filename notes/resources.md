@@ -1,3 +1,8 @@
+---
+title: some title
+name: some name
+---
+
 # A Framework for analyzing FB posts during Elections
 
 The internship was under the guidance of following eminent people:

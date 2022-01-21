@@ -1,9 +1,3 @@
----
-title: Research Papers
-description: List of research papers read.
-
----
-
 # A Framework for analyzing FB posts during Elections
 
 The internship was under the guidance of following eminent people:

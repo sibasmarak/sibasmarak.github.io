@@ -59,18 +59,28 @@ heading {
   font-weight: 700;
 }
 
-sectionheading {
+sectionheading,
+h2 {
   font-size: 28px;
   font-weight: 700;
   letter-spacing: -0.015em;
+  margin: 0;
 }
 
-pageheading {
+pageheading,
+h1 {
   display: inline-block;
   font-size: clamp(34px, 5vw, 54px);
   font-weight: 700;
   line-height: 1.12;
   letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.paper-blurb {
+  color: var(--muted);
+  font-size: 15px;
+  font-style: italic;
 }
 
 strongred {
